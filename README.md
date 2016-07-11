@@ -57,3 +57,10 @@ python3 middleware.py < execution mode > [extra params]
 
 For more information about Sendero Project go to the [base repository](https://github.com/LaboratorioDeMedios/Sendero).
 
+
+
+
+---------
+
+Logo designed by flaviarampa@gmail.com & nilsonbarbara@gmail.com
+
